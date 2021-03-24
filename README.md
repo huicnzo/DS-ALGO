@@ -8,7 +8,7 @@ This repo contains notes & practice problems of DS-ALGO in C++ .
 | | | |
 |Topic:|Problem: |Done [yes or no] |
 | | |<->|
-|Array|Reverse the array|<->|
+|Array|[Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)|<->|
 |Array|Find the maximum and minimum element in an array|<->|
 |Array|Find the "Kth" max and min element of an array |<->|
 |Array|Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo|<->|
