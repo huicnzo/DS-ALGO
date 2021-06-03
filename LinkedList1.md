@@ -117,7 +117,7 @@ anything yet */
 }
 ```
 Linked List Traversal
-`// A simple C++ program for traversal of a linked list
+```// A simple C++ program for traversal of a linked list
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -162,4 +162,4 @@ int main()
 
 	return 0;
 }
-`
+```
