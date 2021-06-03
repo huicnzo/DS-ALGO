@@ -10,12 +10,12 @@ Drawbacks:
 In C, we can represent a node using structures. Below is an example of a linked list node with integer data.
 In Java or C#, LinkedList can be represented as a class and a Node as a separate class. The LinkedList class contains a reference of Node class type.
 
-`class Node {
+```class Node {
 public:
 	int data;
 	Node* next;
 };
-`
+```
 
 
 `// A simple CPP program to introduce
