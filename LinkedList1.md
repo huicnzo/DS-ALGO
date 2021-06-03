@@ -18,7 +18,7 @@ public:
 ```
 
 
-`// A simple CPP program to introduce
+```// A simple CPP program to introduce
 // a linked list
 #include <bits/stdc++.h>
 using namespace std;
@@ -115,7 +115,7 @@ anything yet */
 
 	return 0;
 }
-`
+```
 Linked List Traversal
 `// A simple C++ program for traversal of a linked list
 #include <bits/stdc++.h>
