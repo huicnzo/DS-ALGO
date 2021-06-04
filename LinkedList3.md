@@ -3,7 +3,7 @@ A node can be added in three ways
 2) After a given node. 
 3) At the end of the linked list.
 
-#Add a node at the front: (4 steps process)
+# Add a node at the front: (4 steps process)
 The new node is always added before the head of the given Linked List. And newly added node becomes the new head of the Linked List. 
 
 
@@ -66,7 +66,7 @@ void insertAfter(Node* prev_node, int new_data)
 
 Time complexity of insertAfter() is O(1) as it does a constant amount of work.
 
-#Add a node at the end: (6 steps process) 
+# Add a node at the end: (6 steps process) 
 The new node is always added after the last node of the given Linked List.
 ince a Linked List is typically represented by the head of it, we have to traverse the list till the end and then change the next to last node to a new node.
 ```
