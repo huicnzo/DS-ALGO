@@ -7,6 +7,7 @@ To delete a node from the linked list, we need to do the following steps.
 2) Change the next of the previous node. 
 3) Free memory for the node to be deleted.
 
+```
 // A complete working C++ program to
 // demonstrate deletion in singly
 // linked list with class
@@ -32,7 +33,7 @@ void push(Node** head_ref, int new_data)
 	(*head_ref) = new_node;
 }
 
-```
+
 // Given a reference (pointer to pointer)
 // to the head of a list and a key, deletes
 // the first occurrence of key in linked list
